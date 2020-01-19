@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Soccer Scraper</string>
-    <string name="initial_setup_error_msg1">An error has occurred!</string>
-    <string name="initial_setup_error_msg2">This should only happen if you have no internet connection. Try fixing that and retrying!</string>
-    <string name="drawer_settings">Settings</string>
-</resources>
