@@ -24,5 +24,4 @@ Motor System: Uses stepper motors to control the robots exact location on the co
 
 
 BRAT at work:
-![Photo of BRAT](Photos/IMG_20200119_141937.jpg)
-
+<img src="Photos/IMG_20200119_141937.jpg" alt="Photo of Brat" width="200"/>
