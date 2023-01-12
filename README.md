@@ -22,3 +22,7 @@ Motor System: Uses stepper motors to control the robots exact location on the co
 - Allows selection of locations on a badminton court
 - Connects to the robot via bluetooth
 
+
+BRAT at work:
+![Photo of BRAT](Photos/IMG_20200119_141937.jpg)
+
