@@ -23,5 +23,5 @@ Motor System: Uses stepper motors to control the robots exact location on the co
 - Connects to the robot via bluetooth
 
 
-BRAT at work:
+BRAT at work: <br>
 <img src="Photos/IMG_20200119_141937.jpg" alt="Photo of Brat" width="200"/>
